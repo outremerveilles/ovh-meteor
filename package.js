@@ -1,6 +1,7 @@
 Package.describe({
   name: 'djabatav:ovh',
-  version: '0.0.1'
+  version: '0.0.1',
+  git: 'https://github.com/outremerveilles/ovh-meteor.git'
 });
 
 Npm.depends({
